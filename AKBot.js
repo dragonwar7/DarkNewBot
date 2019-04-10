@@ -1,4 +1,3 @@
-client.login(process.env.BOT_TOKEN);
 /*
 * Author: Mineva of The Priest Academy
 * Thanks: to https://medium.com/@renesansz/tutorial-creating-a-simple-discord-bot-9465a2764dc0 for discord tutorial.
