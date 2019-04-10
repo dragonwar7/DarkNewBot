@@ -1,1 +1,1 @@
-worker node AKBOT.js
+worker node akbot.js
