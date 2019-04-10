@@ -236,4 +236,5 @@ function postEvent(eventID)
       });
 }
 
+client.login(config.json); 
 
